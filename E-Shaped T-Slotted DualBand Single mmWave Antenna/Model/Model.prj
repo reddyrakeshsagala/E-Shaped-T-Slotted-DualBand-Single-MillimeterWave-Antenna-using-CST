@@ -1,0 +1,21 @@
+[Version]
+2
+[ProjectVersion]
+'# MWS Version: Version 2021.1 - Nov 10 2020 - ACIS 30.0.1 -
+[Author]
+smsad_000
+[Mesh Cells]
+423,792
+[Mesh Type]
+Hexahedral
+[Last Problem Type]
+High Frequency
+[Last Solver Type]
+HF Time Domain
+[Last Solver Type Abb]
+t
+[Results]
+Time Domain: S-Parameter
+[Modeler Unique ID]
+5:e-shaped t-slotted dualband single mmwave antenna.cst?164313decb861623ed1c0e5a5df4dc9e?22380:numberofparameters=14:port=1>mode=1>zre=0>zim=0:::fl?fl50?fw?fw50?pl?pw?sal?saw?sbl?sbw?sl?ssl?ssw?sw
+[Comment]
